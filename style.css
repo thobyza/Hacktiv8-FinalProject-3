@@ -37,7 +37,7 @@ a {
     top: -12px;
     width: 140px;
     height: 3px;
-    background: linear-gradient(90deg,#7978FF,#BCCEF8);
+    background: linear-gradient(90deg,#7978FF,#6C4AB6);
     display: inline-block;
 }
 
@@ -93,7 +93,7 @@ a {
 
 .btn-brand-contact {
     padding: 8px 14px;
-    background: linear-gradient(90deg,#7978FF,#BCCEF8);
+    background: linear-gradient(90deg,#7978FF,#6C4AB6);
     color: #fff;
     border-radius: 8px;
     font-weight: 400;
@@ -304,7 +304,7 @@ small {
 
 .btn-brand {
     padding: 15px 35px;
-    background: linear-gradient(90deg,#7978FF,#BCCEF8);
+    background: linear-gradient(90deg,#7978FF,#6C4AB6);
     color: #fff;
     border-radius: 10px;
     border-color: var(--color-bg-1);
@@ -346,7 +346,7 @@ small {
     display: block;
     width: 100%;
     padding: 10px 35px;
-    background: linear-gradient(90deg,#7978FF,#BCCEF8);
+    background: linear-gradient(90deg,#7978FF,#6C4AB6);
     color: #fff;
     border-radius: 10px;
     font-weight: 400;
@@ -362,7 +362,7 @@ small {
 .btn-brand-modal {
     padding: 10px 35px;
     margin-top: 20px;
-    background: linear-gradient(90deg,#7978FF,#BCCEF8);
+    background: linear-gradient(90deg,#7978FF,#6C4AB6);
     color: #fff;
     border-radius: 10px;
     font-weight: 400;
